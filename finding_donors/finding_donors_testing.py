@@ -243,9 +243,9 @@ vs.evaluate(results, accuracy, fscore)
 from sklearn.grid_search import GridSearchCV
 from sklearn.metrics import make_scorer
 clf = LogisticRegression(random_state=20)
-make_scorer
+LogisticRegression()
 # HINT: parameters = {'parameter_1': [value1, value2], 'parameter_2': [value1, value2]}
-parameters = {'C':[0.2,0.3,0.31,0.32,0.33,0.34,0.35,0.36,0.37,0.38,0.39,0.4], 'penalty':['l1','l2']}
+parameters = {'C':[0.05,0.1,0.15], 'penalty':['l1','l2'],'intercept_scaling':[1,100,150]}
 scorer = make_scorer(fbeta_score,beta=0.5)
 
 # TODO: Perform grid search on the classifier using 'scorer' as the scoring method.
@@ -264,3 +264,29 @@ print("F-score on testing data: {:.4f}".format(fbeta_score(y_test, predictions, 
 print("\nOptimized Model\n------")
 print("Final accuracy score on the testing data: {:.4f}".format(accuracy_score(y_test, best_predictions)))
 print("Final F-score on the testing data: {:.4f}".format(fbeta_score(y_test, best_predictions, beta = 0.5)))
+
+
+
+##### FEATURE EXTRACTION SECTION #################
+
+from sklearn.ensemble import RandomForestClassifier
+
+model =  RandomForestClassifier()
+modelFit = model.fit(X_train,y_train)
+importances= model.feature_importances_
+vs.feature_plot(importances ,X_train,y_train)
+
+
+from sklearn.tree import DecisionTreeClassifier
+model2 = DecisionTreeClassifier()
+modelFit2 = model2.fit(X_train,y_train)
+importances2= model2.feature_importances_
+vs.feature_plot(importances2 ,X_train,y_train)
+
+
+
+from sklearn.ensemble import AdaBoostClassifier
+model3 = AdaBoostClassifier()
+modelFit3 = model3.fit(X_train,y_train)
+importances3= model3.feature_importances_
+vs.feature_plot(importances3 ,X_train,y_train)
