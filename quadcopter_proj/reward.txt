@@ -1,0 +1,1121 @@
+reward calcualted for this state: 
+2.2719382986511563
+sim position is 
+[0.00000000e+00 6.65526316e-03 4.10293168e-02 1.73423724e+00
+ 1.76240375e-05 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2719607724938458
+sim position is 
+[-1.64719238e-07  2.91910094e-02  7.96263577e-02  1.80250392e+00
+  6.28310547e+00  0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2719496674665582
+sim position is 
+[2.79262990e-07 7.03849174e-02 1.10594062e-01 1.71784190e+00
+ 6.28285782e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.271904688247454
+sim position is 
+[4.65787381e-06 1.30562279e-01 1.34030555e-01 1.63376397e+00
+ 6.28258030e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2718277524301262
+sim position is 
+[1.80019136e-05 2.09865267e-01 1.51544586e-01 1.55091070e+00
+ 6.28222186e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2717209628425437
+sim position is 
+[4.63255365e-05 3.08264948e-01 1.64728951e-01 1.46966567e+00
+ 6.28183726e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.271586557316173
+sim position is 
+[9.65442951e-05 4.25573795e-01 1.75133267e-01 1.39013567e+00
+ 6.28146099e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.271426876182513
+sim position is 
+[1.75581089e-04 5.61454102e-01 1.84245754e-01 1.31184362e+00
+ 6.28095049e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2712443234212456
+sim position is 
+[2.91352775e-04 7.15442414e-01 1.93487329e-01 1.23494974e+00
+ 6.28037926e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.271041339594153
+sim position is 
+[4.53381786e-04 8.86968244e-01 2.04208823e-01 1.15880897e+00
+ 6.27977337e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2708203887355953
+sim position is 
+[6.71851093e-04 1.07536798e+00 2.17692727e-01 1.08380305e+00
+ 6.27900559e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.270583945991754
+sim position is 
+[9.58491798e-04 1.27989376e+00 2.35152456e-01 1.01011381e+00
+ 6.27820742e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.270334477485499
+sim position is 
+[1.32652330e-03 1.49972269e+00 2.57725167e-01 9.36856359e-01
+ 6.27733047e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.270074435521774
+sim position is 
+[1.79000041e-03 1.73397735e+00 2.86486569e-01 8.64442372e-01
+ 6.27630158e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.269806260001837
+sim position is 
+[2.36491436e-03 1.98172741e+00 3.22454036e-01 7.92766911e-01
+ 6.27523221e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2695323724294107
+sim position is 
+[3.06883229e-03 2.24198514e+00 3.66576746e-01 7.22007580e-01
+ 6.27401929e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2692551675487005
+sim position is 
+[3.92095784e-03 2.51371916e+00 4.19742166e-01 6.51918406e-01
+ 6.27278279e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.268977008820692
+sim position is 
+[4.94203506e-03 2.79585563e+00 4.82773100e-01 5.82541166e-01
+ 6.27147105e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2687002249388697
+sim position is 
+[6.15375376e-03 3.08727472e+00 5.56420560e-01 5.14049679e-01
+ 6.27005251e+00 0.00000000e+00]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.268427097511372
+sim position is 
+[0.00757958 3.38681967 0.64136349 0.44618595 6.26842973 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2681598555951044
+sim position is 
+[0.00924602 3.69330324 0.7382116  0.37882562 6.26666371 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.267900670478152
+sim position is 
+[0.01118294 4.00550669 0.84750029 0.31235277 6.26476302 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.267651646309474
+sim position is 
+[0.01342319 4.32218778 0.96969053 0.24669704 6.26275589 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2674148046213496
+sim position is 
+[0.01600225 4.64208916 1.10516461 0.18218436 6.2605969  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2671920627257753
+sim position is 
+[0.01895833 4.96394401 1.25421494 0.11832114 6.25824082 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2669852227922815
+sim position is 
+[0.02233312 5.28648218 1.41704215 0.05511636 6.25580394 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2667959755548153
+sim position is 
+[0.02617134 5.60843358 1.59376051 6.27608159 6.25325946 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266625892085395
+sim position is 
+[0.03051998 5.92853925 1.78440166 6.21457972 6.25066279 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266476420796201
+sim position is 
+[0.0354282  6.24555787 1.98891843 6.15374772 6.24769934 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266348882804711
+sim position is 
+[0.04094964 6.55826876 2.20718642 6.09360167 6.24440157 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2662444538124356
+sim position is 
+[0.04714471 6.8654781  2.43899837 6.03427522 6.24078499 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2661641606703125
+sim position is 
+[0.05408025 7.16602662 2.68406881 5.97586546 6.236927   0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2661088758903505
+sim position is 
+[0.06182851 7.45879825 2.94203748 5.91856892 6.23264482 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266079312808161
+sim position is 
+[0.07046808 7.74272822 3.21247461 5.86198524 6.22797447 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.26607603556533
+sim position is 
+[0.08008536 8.01680355 3.49489072 5.80593413 6.2231285  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.26609947125408
+sim position is 
+[0.09077241 8.28006015 3.78874095 5.7506022  6.21827264 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2661499191114967
+sim position is 
+[0.10262338 8.53158472 4.09343087 5.69577053 6.21340869 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266227550676007
+sim position is 
+[0.11573273 8.77051825 4.40831847 5.64146026 6.20856517 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2663324147424726
+sim position is 
+[0.13019477 8.99605602 4.7327177  5.58774648 6.2036866  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266464445959188
+sim position is 
+[0.14610402 9.20744819 5.06590634 5.53457044 6.1987697  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.266623472946
+sim position is 
+[0.16355586 9.40399891 5.40713219 5.48188969 6.19383574 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2668092168071956
+sim position is 
+[0.182646   9.58506849 5.75561382 5.42987391 6.1888376  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.267021299023304
+sim position is 
+[0.20347076 9.75007279 6.11054664 5.37850562 6.18382576 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.267259250059107
+sim position is 
+[0.22612708 9.89848286 6.47110948 5.32757539 6.17885834 0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.267522514216332
+sim position is 
+[ 0.25071144 10.02982284  6.83646547  5.2773188   6.17400454  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2678104597303097
+sim position is 
+[ 0.27731871 10.14366796  7.20576695  5.22754321  6.16928437  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2681223657860983
+sim position is 
+[ 0.30603996 10.23965347  7.57815264  5.17826025  6.16469     0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2684574297506437
+sim position is 
+[ 0.3369624  10.31747189  7.95275068  5.12948713  6.16010052  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2688147857867875
+sim position is 
+[ 0.37017151 10.37686435  8.32868655  5.08113105  6.15541809  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.269193507684027
+sim position is 
+[ 0.40575326 10.41761811  8.70508525  5.03315278  6.15066758  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.26959260486566
+sim position is 
+[ 0.44379434 10.43956859  9.0810707   4.9856148   6.14586086  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2700110357747283
+sim position is 
+[ 0.48438253 10.44259265  9.45576987  4.93849417  6.14097269  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2704477030453862
+sim position is 
+[ 0.52760598 10.42661356  9.82831366  4.89165797  6.13600998  0.        ]
+target position is 
+[ 0.  0. 10.]
+reward calcualted for this state: 
+2.2704029297673887
+sim position is 
+[ 0.57355226 10.39160697 10.19783546  4.84507531  6.13107992  0.        ]
+target position is 
+[ 0.  0. 10.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2570283770572304
+sim position is 
+[ 0.62230828 10.3375921  10.56347403  4.79873561  6.12611961  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2565820531884766
+sim position is 
+[ 0.67396082 10.26462482 10.92437564  4.75264438  6.12116496  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.256163424432474
+sim position is 
+[ 0.72859686 10.17279632 11.27969533  4.70681442  6.11626718  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.255773311825706
+sim position is 
+[ 0.78630064 10.06224509 11.6285979   4.66134922  6.11131134  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.255412470519129
+sim position is 
+[ 0.8471556   9.93314756 11.97026093  4.61633842  6.10624429  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.255081580800418
+sim position is 
+[ 0.91124549  9.7857194  12.30387921  4.571823    6.10108222  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.254781239825707
+sim position is 
+[ 0.97865368  9.62021937 12.62866756  4.52766436  6.09571519  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2545119617431024
+sim position is 
+[ 1.04946411  9.43694653 12.94386251  4.48387599  6.09007304  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2542741707687686
+sim position is 
+[ 1.12376214  9.23624339 13.24872357  4.44054969  6.08432872  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2540682125264833
+sim position is 
+[ 1.20163502  9.01848513 13.54253475  4.39771728  6.07842504  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.253894353918088
+sim position is 
+[ 1.28317055  8.78407824 13.82460717  4.35548431  6.07238218  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2537527683159944
+sim position is 
+[ 1.36845523  8.53346751 14.09428503  4.31373651  6.06626858  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2536435492875766
+sim position is 
+[ 1.45757492  8.26712624 14.35094411  4.27258941  6.06013919  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2535667282800818
+sim position is 
+[ 1.55061583  7.98554452 14.59398915  4.23198262  6.05409676  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.25352226351178
+sim position is 
+[ 1.64766068  7.68923646 14.82285853  4.19197377  6.04805559  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.25351003462276
+sim position is 
+[ 1.74878733  7.37874241 15.03702738  4.1524589   6.04200985  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2535298372809436
+sim position is 
+[ 1.85406837  7.05463037 15.23601052  4.11348613  6.03598932  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2535814065001
+sim position is 
+[ 1.96357417  6.71748226 15.41935566  4.07506678  6.03006053  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.253664418986302
+sim position is 
+[ 2.07737164  6.36789183 15.58664468  4.03708693  6.02422765  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2537784867508783
+sim position is 
+[ 2.19552195  6.00646899 15.73749641  3.99963496  6.01847531  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.253923164221307
+sim position is 
+[ 2.3180813   5.63383511 15.87156512  3.96260801  6.01280692  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2540979394793554
+sim position is 
+[ 2.44509901  5.2506267  15.98854536  3.92599443  6.00727358  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.254302249578738
+sim position is 
+[ 2.57661903  4.85748811 16.08816617  3.88979689  6.00182703  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.25453548135489
+sim position is 
+[ 2.71267955  4.45507039 16.17019204  3.85396163  5.99637493  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.254796973378324
+sim position is 
+[ 2.85331449  4.04402953 16.23442174  3.81847544  5.99101042  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2550860176621392
+sim position is 
+[ 2.99855321  3.62502536 16.28068852  3.78319576  5.98564613  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.255401687021894
+sim position is 
+[ 3.14838377  3.19879291 16.30895478  3.76561821  5.98032952  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2557412317888055
+sim position is 
+[ 3.30238889  2.76667149 16.32034083  5.982518    5.97500033  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.256087264499378
+sim position is 
+[ 3.46047389  2.32806413 16.32828099  1.64468598  5.96963719  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.256425821595406
+sim position is 
+[ 3.62106905  1.88947336 16.33841745  1.52018205  5.96427977  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.256757171832474
+sim position is 
+[ 3.78238581  1.45911017 16.34455938  0.4703786   5.95889184  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2570731692164356
+sim position is 
+[ 3.94581701  1.03452594 16.3537262   4.59496239  5.95349496  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.257382215319346
+sim position is 
+[ 4.11172234  0.60930375 16.36538807  1.31279449  5.94803659  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.257689395470419
+sim position is 
+[ 4.27898946  0.1863286  16.37415919  3.3321744   5.94261341  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2574147797998707
+sim position is 
+[ 4.44898287 -0.23155386 16.37349877  4.54051825  5.93713838  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2566788475077804
+sim position is 
+[ 4.62191778 -0.65104691 16.36163373  5.14582117  5.9316359   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.25593762051266
+sim position is 
+[ 4.79673199 -1.07561315 16.34627455  5.3351639   5.92609236  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.25518643017206
+sim position is 
+[ 4.97391862 -1.50637446 16.32931226  5.24643846  5.92034561  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.254424669268645
+sim position is 
+[ 5.15357379 -1.94348233 16.31092028  4.97331983  5.9146168   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2536561715559693
+sim position is 
+[ 5.33517475 -2.38560349 16.28997855  4.58375445  5.90899613  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2528851164598707
+sim position is 
+[ 5.51817731 -2.83130542 16.26523667  4.12173702  5.90348142  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2521144407710354
+sim position is 
+[ 5.7028392  -3.28043034 16.23440496  3.61570529  5.8980191   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2513501213162477
+sim position is 
+[ 5.89044836 -3.73217559 16.19257526  3.08447296  5.89255458  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.250602428950381
+sim position is 
+[ 6.08237127 -4.18196615 16.13516741  2.5367525   5.88717172  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2498782197128646
+sim position is 
+[ 6.2787274  -4.62369075 16.06279837  1.9790854   5.88176405  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2491761260076792
+sim position is 
+[ 6.47819566 -5.05460023 15.98038103  1.41501771  5.87632055  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2484903420025035
+sim position is 
+[ 6.67935421 -5.47512387 15.89319967  0.84688754  5.8707911   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.247811128526225
+sim position is 
+[ 6.88224349 -5.88676862 15.80701808  0.27600079  5.86521503  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2471222373726003
+sim position is 
+[ 7.08842461 -6.29409129 15.72802292  5.98680361  5.85951617  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.246410000383216
+sim position is 
+[ 7.2993036  -6.70472961 15.65765235  5.41295427  5.85378815  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2456762722315
+sim position is 
+[ 7.51453267 -7.12295437 15.5907345   4.83819082  5.84798254  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2449330127180245
+sim position is 
+[ 7.73243    -7.54693328 15.52175932  4.26281693  5.84214231  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.24418822852902
+sim position is 
+[ 7.95200569 -7.97428119 15.44802107  3.68696755  5.83626051  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.243447231165527
+sim position is 
+[ 8.17417022 -8.40409531 15.36555036  3.11090874  5.83034499  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2427195418012955
+sim position is 
+[ 8.40071226 -8.83256632 15.2692278   2.53467694  5.82448135  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.242013608268231
+sim position is 
+[ 8.63231653 -9.25325848 15.15837017  1.95823512  5.81865822  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2413300333650423
+sim position is 
+[ 8.86789013 -9.66232185 15.03735714  1.38172352  5.81281343  0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2406634806942085
+sim position is 
+[  9.10589071 -10.05955662  14.91187997   0.80519655   5.80683984
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2400033131339985
+sim position is 
+[  9.3461498  -10.44689679  14.78814997   0.22861228   5.80081928
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.23933254942382
+sim position is 
+[  9.59014019 -10.82977609  14.67204647   5.93521822   5.79480863
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.238637733136909
+sim position is 
+[  9.83929723 -11.21621652  14.56428389   5.35858144   5.7889405
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2379211769447194
+sim position is 
+[ 10.09326699 -11.6103574   14.45937882   4.78189442   5.78319116
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.237195100143321
+sim position is 
+[ 10.35021752 -12.01018216  14.35198301   4.20519479   5.77751498
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.236467701450687
+sim position is 
+[ 10.60893544 -12.41304444  14.23976814   3.62856874   5.77179921
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2357438873587063
+sim position is 
+[ 10.87023462 -12.81778951  14.11939587   3.05204315   5.76603778
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2350321386240215
+sim position is 
+[ 11.13605301 -13.22073604  13.98626918   2.47564591   5.76018509
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.234340635733422
+sim position is 
+[ 11.40738092 -13.61560215  13.83955474   1.89940517   5.75428368
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2336708572737884
+sim position is 
+[ 11.68338324 -13.99811347  13.68325261   1.32324324   5.74844696
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2330178214154395
+sim position is 
+[ 11.96257979 -14.36759895  13.52325129   0.74711501   5.74267614
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2323700574245713
+sim position is 
+[ 12.24468554 -14.72640066  13.36609295   0.17103635   5.73690445
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.231710187425823
+sim position is 
+[ 12.53100198 -15.08081377  13.2171715    5.87817028   5.73109098
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.231025624126952
+sim position is 
+[ 12.82284381 -15.43909727  13.07626522   5.30219071   5.72532293
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2303195787016117
+sim position is 
+[ 13.11977662 -15.80506203  12.93751914   4.72624901   5.71955613
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2296045491936782
+sim position is 
+[ 13.41982594 -16.17642157  12.79581723   4.15032244   5.71380494
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2288887288195482
+sim position is 
+[ 13.72156121 -16.55032826  12.64930678   3.57440844   5.70798503
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.228176372751501
+sim position is 
+[ 14.02565763 -16.92552982  12.49536331   2.9984929    5.70196013
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2274746897675834
+sim position is 
+[ 14.33416729 -17.29863666  12.32993791   2.42258118   5.69589279
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.226791342698297
+sim position is 
+[ 14.6484316  -17.66364107  12.15204031   1.84650943   5.68972958
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.226128467228284
+sim position is 
+[ 14.96799054 -18.01591505  11.96527053   1.27039149   5.68350054
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.22548141590193
+sim position is 
+[ 15.29154872 -18.35431296  11.77563676   0.69421602   5.67720691
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2248381296377375
+sim position is 
+[ 15.61874265 -18.68146568  11.5899148    0.11790396   5.67106257
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2241811755304184
+sim position is 
+[ 15.95063915 -19.00435     11.41298283   5.82453766   5.6650686
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2234991323890774
+sim position is 
+[ 16.28832709 -19.33132095  11.24369919   5.24794553   5.65914086
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.222796317112748
+sim position is 
+[ 16.63121697 -19.66577631  11.07585099   4.67136182   5.65329866
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.222085500831425
+sim position is 
+[ 16.97718014 -20.00514445  10.9045987    4.0948219    5.64748593
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.221374709207049
+sim position is 
+[ 17.32457051 -20.34645397  10.72862475   3.51839503   5.64164891
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2206674076113204
+sim position is 
+[ 17.67389762 -20.68847266  10.54604195   2.94208092   5.63577831
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.219969366933356
+sim position is 
+[ 18.02728768 -21.02820798  10.35338788   2.36581633   5.62994709
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2192874255544943
+sim position is 
+[ 18.38643862 -21.3600475   10.14958068   1.78957249   5.62419196
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2186240351616187
+sim position is 
+[ 18.75134227 -21.67917066   9.93782391   1.21318583   5.6185534
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2179747772269915
+sim position is 
+[ 19.12097597 -21.98407166   9.72413388   0.63670982   5.61292813
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2173272467126264
+sim position is 
+[ 19.49493917 -22.27761622   9.51535656   0.06019882   5.60712458
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2166644208309116
+sim position is 
+[ 19.87401711 -22.56725844   9.31575208   5.76684546   5.6009009
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.215976490156937
+sim position is 
+[ 20.2589723  -22.86121744   9.12326586   5.19029252   5.59441634
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.21526911505716
+sim position is 
+[ 20.64898867 -23.16230726   8.93141414   4.61365536   5.58760741
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.214555289050492
+sim position is 
+[ 21.04177588 -23.46762969   8.73574148   4.03701841   5.5806179
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.213842644513987
+sim position is 
+[ 21.43550167 -23.77418698   8.53552407   3.46038701   5.57354969
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2131337071314308
+sim position is 
+[ 21.83050681 -24.08089722   8.32960635   2.88377963   5.56638893
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2124326689586082
+sim position is 
+[ 22.22895641 -24.38526565   8.11513311   2.30718283   5.55920089
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2117451743558125
+sim position is 
+[ 22.63289683 -24.68223688   7.89100887   1.73059312   5.55193561
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2110735615383126
+sim position is 
+[ 23.04284318 -24.96702491   7.66002769   1.15393414   5.54448201
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.210413545264096
+sim position is 
+[ 23.45818304 -25.23788178   7.42801963   0.57723467   5.53681363
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2097527262150627
+sim position is 
+[ 2.38785770e+01 -2.54978041e+01  7.20164245e+00  5.66972916e-04
+  5.52911858e+00  0.00000000e+00]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.209075095350519
+sim position is 
+[ 24.30452916 -25.75443208   6.98438385   5.70710524   5.52139438
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2083730671363195
+sim position is 
+[ 24.73637659 -26.0154963    6.77330121   5.1304392    5.51376461
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2076539216584936
+sim position is 
+[ 25.17294711 -26.28300023   6.56183668   4.55369649   5.50628655
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2069306901668986
+sim position is 
+[ 25.61170837 -26.55372754   6.34616232   3.97688884   5.4990085
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.206210271673033
+sim position is 
+[ 26.05062497 -26.82482932   6.12626012   3.40018074   5.49196836
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.205494013812431
+sim position is 
+[ 26.48988452 -27.09554705   5.90170041   2.82353253   5.4851319
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.204784312359765
+sim position is 
+[ 26.93168866 -27.36401434   5.67024962   2.24690359   5.47843563
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2040852654367202
+sim position is 
+[ 27.37845232 -27.62590216   5.43081946   1.67190344   5.47185725
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.203398787959545
+sim position is 
+[ 27.83139689 -27.87655659   5.18568798   1.14644297   5.46539423
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2027209311106306
+sim position is 
+[ 28.29094778 -28.11351805   4.94015414   1.23500883   5.45900347
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.202048108806594
+sim position is 
+[ 28.7581605  -28.33567309   4.69706682   3.88168285   5.45279944
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2013774936717807
+sim position is 
+[ 29.23098406 -28.55097706   4.45206376   0.75802986   5.44679493
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.200701879955308
+sim position is 
+[ 29.70967973 -28.76107879   4.20859969   2.56883802   5.44092979
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.2000263012752033
+sim position is 
+[ 30.19646021 -28.96197494   3.96471749   3.73245237   5.4350747
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.1993554223797975
+sim position is 
+[ 30.68794136 -29.16037978   3.7130407    4.45105239   5.42915354
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.198682195366876
+sim position is 
+[ 31.18239121 -29.36107104   3.45561968   4.89634042   5.42325507
+   0.        ]
+target position is 
+[0. 0. 0.]
+agent has reached intial target already, new target position is back downreward calcualted for this state: 
+2.197999522953201
