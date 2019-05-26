@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="hs_season_GD <= 5.5\ngini = 0.4247\nsamples = 3288\nvalue = [[1734, 1554]\n[2369, 919]\n[2473, 815]]", fillcolor="#e5813910"] ;
+1 [label="as_season_GD <= 23.5\ngini = 0.4389\nsamples = 2198\nvalue = [[1347, 851]\n[1427, 771]\n[1622, 576]]", fillcolor="#e5813902"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="as_season_Losses <= 14.5\ngini = 0.4324\nsamples = 1698\nvalue = [[946, 752]\n[1218, 480]\n[1232, 466]]", fillcolor="#e5813909"] ;
+1 -> 2 ;
+3 [label="gini = 0.4412\nsamples = 571\nvalue = [[360, 211]\n[369, 202]\n[413, 158]]", fillcolor="#e5813900"] ;
+2 -> 3 ;
+4 [label="gini = 0.4227\nsamples = 1127\nvalue = [[586, 541]\n[849, 278]\n[819, 308]]", fillcolor="#e5813912"] ;
+2 -> 4 ;
+5 [label="hs_any_avgBigChancesCreated <= 4.9\ngini = 0.3824\nsamples = 500\nvalue = [[401, 99]\n[209, 291]\n[390, 110]]", fillcolor="#e581393a"] ;
+1 -> 5 ;
+6 [label="gini = 0.1852\nsamples = 12\nvalue = [[2, 10]\n[10, 2]\n[12, 0]]", fillcolor="#e58139ff"] ;
+5 -> 6 ;
+7 [label="gini = 0.3768\nsamples = 488\nvalue = [[399, 89]\n[199, 289]\n[378, 110]]", fillcolor="#e5813940"] ;
+5 -> 7 ;
+8 [label="as_season_avg_Goals <= 1.5132\ngini = 0.345\nsamples = 1090\nvalue = [[387, 703]\n[942, 148]\n[851, 239]]", fillcolor="#e5813960"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="as_away_prevGame_Win <= 0.5\ngini = 0.3081\nsamples = 850\nvalue = [[257, 593]\n[766, 84]\n[677, 173]]", fillcolor="#e5813985"] ;
+8 -> 9 ;
+10 [label="gini = 0.3681\nsamples = 412\nvalue = [[165, 247]\n[356, 56]\n[303, 109]]", fillcolor="#e5813949"] ;
+9 -> 10 ;
+11 [label="gini = 0.2337\nsamples = 438\nvalue = [[92, 346]\n[410, 28]\n[374, 64]]", fillcolor="#e58139cf"] ;
+9 -> 11 ;
+12 [label="hs_season_avg_Shots <= 13.2237\ngini = 0.4288\nsamples = 240\nvalue = [[130, 110]\n[176, 64]\n[174, 66]]", fillcolor="#e581390c"] ;
+8 -> 12 ;
+13 [label="gini = 0.4359\nsamples = 73\nvalue = [[53, 20]\n[42, 31]\n[51, 22]]", fillcolor="#e5813905"] ;
+12 -> 13 ;
+14 [label="gini = 0.4007\nsamples = 167\nvalue = [[77, 90]\n[134, 33]\n[123, 44]]", fillcolor="#e5813928"] ;
+12 -> 14 ;
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Deutsche 2. Bundesliga 2016/17",
+  "clubs": [
+    {
+      "key": "hannover",
+      "name": "Hannover 96",
+      "code": "H96"
+    },
+    {
+      "key": "stuttgart",
+      "name": "VfB Stuttgart",
+      "code": "VFB"
+    },
+    {
+      "key": "braunschweig",
+      "name": "Eintr. Braunschweig",
+      "code": "EBS"
+    },
+    {
+      "key": "nuernberg",
+      "name": "1. FC Nürnberg",
+      "code": "FCN"
+    },
+    {
+      "key": "duesseldorf",
+      "name": "Fortuna Düsseldorf",
+      "code": "F95"
+    },
+    {
+      "key": "fuerth",
+      "name": "Greuther Fürth",
+      "code": "SGF"
+    },
+    {
+      "key": "klautern",
+      "name": "1. FC Kaiserslautern",
+      "code": "FCK"
+    },
+    {
+      "key": "tsvmuenchen",
+      "name": "1860 München",
+      "code": "M60"
+    },
+    {
+      "key": "unionberlin",
+      "name": "Union Berlin",
+      "code": "FCU"
+    },
+    {
+      "key": "bochum",
+      "name": "VfL Bochum",
+      "code": "BOC"
+    },
+    {
+      "key": "stpauli",
+      "name": "FC St. Pauli",
+      "code": "STP"
+    },
+    {
+      "key": "sandhausen",
+      "name": "SV Sandhausen",
+      "code": "SAN"
+    },
+    {
+      "key": "karlsruhe",
+      "name": "Karlsruhe",
+      "code": "KSC"
+    },
+    {
+      "key": "heidenheim",
+      "name": "1. FC Heidenheim",
+      "code": "HDH"
+    },
+    {
+      "key": "bielefeld",
+      "name": "Bielefeld",
+      "code": "DSC"
+    },
+    {
+      "key": "wuerzburg",
+      "name": "Würzburger Kickers",
+      "code": null
+    },
+    {
+      "key": "aue",
+      "name": "Erzgebirge Aue",
+      "code": "AUE"
+    },
+    {
+      "key": "dresden",
+      "name": "Dynamo Dresden",
+      "code": "SGD"
+    }
+  ]
+}
